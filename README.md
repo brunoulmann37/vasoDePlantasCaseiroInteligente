@@ -9,8 +9,8 @@
 
 // a seguir defino as credenciais de wifi.
 
-const char* ssid = "Madalena";
-const char* wifi_password = "ehminhaprincesadomar";
+const char* ssid = "********";
+const char* wifi_password = "*****************";
 
 // a seguir o servidor mqtt é definido
 
